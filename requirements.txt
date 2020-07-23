@@ -1,0 +1,15 @@
+pip ==20.1.1
+numpy
+#Pillow>=1.0
+#Pillow
+Flask
+#ten
+opencv-python-headless
+#rflow==1.12.2
+#tensorflow==1.15.0
+#protobuf>=3.6.1
+setuptools>=36
+six
+matplotlib==1.5.3
+tensorflow-1.14.1-cp36-cp36m-linux_x86_64.whl
+#tf14-py36-glibc2-17.whl
